@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Krishna-Jonnagaddala
-- 👀 Professional Front-End web developer
+- 👀 Professional Front-End web developer & VFX Artist
 - 📫 How to reach me krishnaprasad060400@gmail.com
 
 <!---

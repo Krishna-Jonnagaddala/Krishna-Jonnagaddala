@@ -1,5 +1,8 @@
 # 💫 About Me:
-I am an IT Consultant with hands-on experience in IT service delivery, infrastructure support, and cloud-based solutions. I have worked closely with clients and stakeholders to translate business requirements into practical, technology-driven outcomes. With a background in IT consulting, ServiceNow, front-end development, and digital design, I bring a unique mix of technical problem-solving and user-focused thinking to every project. I am adaptable, detail-oriented, and continuously learning to stay aligned with evolving technologies.
+Cyber Security professional with hands-on experience in Security Operations Centre (SOC) environments, specializing in SIEM monitoring, incident response, threat hunting, and security investigations.
+I have practical experience monitoring Windows, Linux, Microsoft 365, Azure AD, VPN, and firewall environments using Microsoft Sentinel, Microsoft Defender XDR, and Splunk. My expertise includes alert triage, IOC validation, malware and phishing investigations, log analysis, Kusto Query Language (KQL), and applying the MITRE ATT&CK framework to identify and respond to cyber threats.
+
+Previously working in IT Support has strengthened my understanding of Windows administration, Active Directory, Microsoft 365, endpoint management, troubleshooting, and user support, allowing me to bridge IT operations with cybersecurity.
 
 
 ## 🌐 Socials:

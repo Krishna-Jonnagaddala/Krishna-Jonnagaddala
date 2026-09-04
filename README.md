@@ -2,146 +2,49 @@
 
 ### SOC Analyst | Microsoft Sentinel | Defender XDR | KQL | Incident Response | Threat Hunting
 
-I'm a SOC Analyst based in London with hands-on experience investigating security alerts across endpoint, identity and network environments.
+I'm a SOC Analyst based in London with hands-on experience in security monitoring, incident investigation and threat hunting across endpoint, identity and network environments.
 
-My current work is mainly focused on **Microsoft Sentinel, Microsoft Defender XDR and KQL**, where I investigate suspicious activity, analyse security logs, validate indicators of compromise, perform threat hunting and support incident response.
+I work mainly with **Microsoft Sentinel, Microsoft Defender XDR and KQL**, investigating security alerts, analysing logs, validating IOCs, investigating phishing and malware activity, and supporting incident response.
 
-Before moving into cybersecurity, I worked in L1/L2 IT Support, which gave me a strong technical foundation across Windows, Active Directory, Microsoft 365, networking and troubleshooting.
-
-I'm currently focused on developing further in **Security Operations, Threat Detection, Incident Response and Microsoft Security**.
+My previous L1/L2 IT Support experience across **Windows, Active Directory, Microsoft 365 and networking** gives me a strong understanding of the systems and environments I now investigate from a security perspective.
 
 ---
 
-## 🛡️ Security Operations
+## 🛡️ Core Security Skills
 
-- Security Monitoring & Alert Triage
-- Incident Investigation
-- Incident Response
-- Threat Hunting
-- IOC Validation
-- Log Analysis & Event Correlation
-- Phishing Investigation
-- Malware Investigation
-- Authentication Analysis
-- Privilege Escalation Investigation
-- Detection Rule Tuning
-- False Positive Analysis
-- MITRE ATT&CK Mapping
-- Vulnerability Management
-
----
-
-## 🔍 Tools & Technologies
-
-### SIEM & Detection
 - Microsoft Sentinel
-- Splunk
-- Kusto Query Language (KQL)
-- SPL
-
-### Endpoint & XDR
 - Microsoft Defender XDR
-- Advanced Hunting
-- Device Timeline Analysis
-- Process Tree Analysis
-- Endpoint Investigation
-
-### Identity & Microsoft
-- Active Directory
-- Microsoft Entra ID Security Monitoring
-- Microsoft 365
-
-### Network & Systems
-- Windows
-- Windows Server
-- Linux
-- TCP/IP
-- DNS
-- DHCP
-- VPN
-- Firewalls
-- HTTP/HTTPS
-
-### Security Operations
-- MITRE ATT&CK
-- Threat Intelligence
+- Kusto Query Language (KQL)
+- Splunk / SPL
+- Incident Investigation & Response
+- Threat Hunting
 - IOC Analysis
+- Phishing & Malware Investigation
+- MITRE ATT&CK
+- Detection Rule Tuning
+- Active Directory / Entra ID
+- Windows & Linux
+- TCP/IP, DNS, VPN & Firewalls
 - Vulnerability Management
-- ServiceNow
-- Jira Service Management
 
 ---
 
-## 🚀 Security Portfolio
-
-I'm building my portfolio around practical SOC investigations rather than only completing theory-based labs.
+## 🔬 Security Projects
 
 ### 🔹 Microsoft Sentinel Incident Investigation
-End-to-end investigation of suspicious activity using Sentinel and KQL, including alert triage, log correlation, IOC analysis, MITRE ATT&CK mapping and incident response recommendations.
+End-to-end SOC investigation using Sentinel and KQL, covering alert triage, log correlation, IOC analysis, MITRE ATT&CK mapping and response recommendations.
 
-**Project:** Coming Soon
+### 🔹 KQL Threat Hunting & Detection
+Threat-hunting and detection queries covering suspicious authentication, PowerShell activity, privilege escalation, IOC hunting and other security scenarios.
 
----
-
-### 🔹 KQL Threat Hunting & Detection Engineering
-A collection of KQL hunting and detection queries covering:
-
-- Brute-force activity
-- Password spraying
-- Suspicious PowerShell
-- Authentication anomalies
-- Privilege escalation
-- Suspicious process execution
-- Network activity
-- IOC hunting
-
-Each detection includes investigation guidance, possible false positives and MITRE ATT&CK mapping.
-
-**Project:** Coming Soon
-
----
-
-### 🔹 Microsoft Defender XDR Investigation
-Endpoint investigation focusing on:
-
-- Device timelines
-- Process trees
-- Parent/child process relationships
-- Suspicious PowerShell activity
-- Network connections
-- Advanced Hunting
-- Incident scoping
-
-**Project:** Coming Soon
-
----
-
-### 🔹 Vulnerability Management Lab
-Practical vulnerability-management workflow covering:
-
-**Discovery → Scanning → CVE/CVSS Analysis → Risk Prioritisation → Remediation → Rescan**
-
-**Project:** Coming Soon
-
----
-
-### 🔹 Identity Compromise Investigation
-Investigation of suspicious authentication activity including failed login attempts, successful authentication, source IP analysis, account activity and post-login behaviour.
-
-**Project:** Coming Soon
-
----
-
-### 🔹 AI Security Lab
-Exploring security risks affecting AI-enabled systems, including prompt injection, trust boundaries, excessive permissions and AI agent security.
-
-**Project:** Coming Soon
+### 🔹 Defender XDR Investigation
+Endpoint investigation using device timelines, process trees, Advanced Hunting and incident scoping.
 
 ---
 
 ## 🎓 Certifications
 
-- **Microsoft Certified: Security Operations Analyst Associate (SC-200)** — Microsoft
+- **Microsoft Certified: Security Operations Analyst Associate (SC-200)**
 - **AI Security (AI1)** — TryHackMe
 - **Cyber Security 101 (SEC1)** — TryHackMe
 - **SEC0** — TryHackMe
@@ -149,37 +52,8 @@ Exploring security risks affecting AI-enabled systems, including prompt injectio
 
 ---
 
-## 🎯 Current Focus
+## 📫 Connect
 
-I'm currently strengthening my practical skills in:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Jonnagaddala-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-jonnagaddala-2b858119a)
 
-- Microsoft Sentinel
-- Defender XDR
-- KQL Threat Hunting
-- Detection Engineering
-- Incident Response
-- Identity Security
-- Vulnerability Management
-- AI Security
-
-My aim is to continue progressing within **SOC, Security Operations, Cyber Defence and Threat Detection** roles.
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Jonnagaddala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-jonnagaddala-2b858119a)
-
-[![Email](https://img.shields.io/badge/Email-kp.jonnagaddala%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kp.jonnagaddala@gmail.com)
-
----
-
-## 📊 GitHub Activity
-
-![Krishna's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Krishna-Jonnagaddala&theme=dark&hide_border=true&show_icons=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Krishna-Jonnagaddala&theme=dark&hide_border=true)
-
----
-
-> **Security Operations | Investigation | Detection | Response**
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kp.jonnagaddala@gmail.com)

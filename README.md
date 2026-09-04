@@ -1,18 +1,185 @@
-# 💫 About Me:
-Cyber Security professional with hands-on experience in Security Operations Centre (SOC) environments, specializing in SIEM monitoring, incident response, threat hunting, and security investigations. I have practical experience monitoring Windows, Linux, Microsoft 365, Azure AD, VPN, and firewall environments using Microsoft Sentinel, Microsoft Defender XDR, and Splunk. My expertise includes alert triage, IOC validation, malware and phishing investigations, log analysis, Kusto Query Language (KQL), and applying the MITRE ATT&CK framework to identify and respond to cyber threats.<br><br>Previously working in IT Support has strengthened my understanding of Windows administration, Active Directory, Microsoft 365, endpoint management, troubleshooting, and user support, allowing me to bridge IT operations with cybersecurity.
+# Hi, I'm Krishna Jonnagaddala 👋
 
+### SOC Analyst | Microsoft Sentinel | Defender XDR | KQL | Incident Response | Threat Hunting
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-jonnagaddala-2b858119a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kp.jonnagaddala@gmail.com) 
+I'm a SOC Analyst based in London with hands-on experience investigating security alerts across endpoint, identity and network environments.
 
-# 💻 Tech Stack:
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Krishna-Jonnagaddala&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Krishna-Jonnagaddala&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Krishna-Jonnagaddala&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+My current work is mainly focused on **Microsoft Sentinel, Microsoft Defender XDR and KQL**, where I investigate suspicious activity, analyse security logs, validate indicators of compromise, perform threat hunting and support incident response.
+
+Before moving into cybersecurity, I worked in L1/L2 IT Support, which gave me a strong technical foundation across Windows, Active Directory, Microsoft 365, networking and troubleshooting.
+
+I'm currently focused on developing further in **Security Operations, Threat Detection, Incident Response and Microsoft Security**.
 
 ---
-[![](https://komarev.com/ghpvc/?username=Krishna-Jonnagaddala&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛡️ Security Operations
+
+- Security Monitoring & Alert Triage
+- Incident Investigation
+- Incident Response
+- Threat Hunting
+- IOC Validation
+- Log Analysis & Event Correlation
+- Phishing Investigation
+- Malware Investigation
+- Authentication Analysis
+- Privilege Escalation Investigation
+- Detection Rule Tuning
+- False Positive Analysis
+- MITRE ATT&CK Mapping
+- Vulnerability Management
+
+---
+
+## 🔍 Tools & Technologies
+
+### SIEM & Detection
+- Microsoft Sentinel
+- Splunk
+- Kusto Query Language (KQL)
+- SPL
+
+### Endpoint & XDR
+- Microsoft Defender XDR
+- Advanced Hunting
+- Device Timeline Analysis
+- Process Tree Analysis
+- Endpoint Investigation
+
+### Identity & Microsoft
+- Active Directory
+- Microsoft Entra ID Security Monitoring
+- Microsoft 365
+
+### Network & Systems
+- Windows
+- Windows Server
+- Linux
+- TCP/IP
+- DNS
+- DHCP
+- VPN
+- Firewalls
+- HTTP/HTTPS
+
+### Security Operations
+- MITRE ATT&CK
+- Threat Intelligence
+- IOC Analysis
+- Vulnerability Management
+- ServiceNow
+- Jira Service Management
+
+---
+
+## 🚀 Security Portfolio
+
+I'm building my portfolio around practical SOC investigations rather than only completing theory-based labs.
+
+### 🔹 Microsoft Sentinel Incident Investigation
+End-to-end investigation of suspicious activity using Sentinel and KQL, including alert triage, log correlation, IOC analysis, MITRE ATT&CK mapping and incident response recommendations.
+
+**Project:** Coming Soon
+
+---
+
+### 🔹 KQL Threat Hunting & Detection Engineering
+A collection of KQL hunting and detection queries covering:
+
+- Brute-force activity
+- Password spraying
+- Suspicious PowerShell
+- Authentication anomalies
+- Privilege escalation
+- Suspicious process execution
+- Network activity
+- IOC hunting
+
+Each detection includes investigation guidance, possible false positives and MITRE ATT&CK mapping.
+
+**Project:** Coming Soon
+
+---
+
+### 🔹 Microsoft Defender XDR Investigation
+Endpoint investigation focusing on:
+
+- Device timelines
+- Process trees
+- Parent/child process relationships
+- Suspicious PowerShell activity
+- Network connections
+- Advanced Hunting
+- Incident scoping
+
+**Project:** Coming Soon
+
+---
+
+### 🔹 Vulnerability Management Lab
+Practical vulnerability-management workflow covering:
+
+**Discovery → Scanning → CVE/CVSS Analysis → Risk Prioritisation → Remediation → Rescan**
+
+**Project:** Coming Soon
+
+---
+
+### 🔹 Identity Compromise Investigation
+Investigation of suspicious authentication activity including failed login attempts, successful authentication, source IP analysis, account activity and post-login behaviour.
+
+**Project:** Coming Soon
+
+---
+
+### 🔹 AI Security Lab
+Exploring security risks affecting AI-enabled systems, including prompt injection, trust boundaries, excessive permissions and AI agent security.
+
+**Project:** Coming Soon
+
+---
+
+## 🎓 Certifications
+
+- **Microsoft Certified: Security Operations Analyst Associate (SC-200)** — Microsoft
+- **AI Security (AI1)** — TryHackMe
+- **Cyber Security 101 (SEC1)** — TryHackMe
+- **SEC0** — TryHackMe
+- **Junior Front-End Developer** — IBM
+
+---
+
+## 🎯 Current Focus
+
+I'm currently strengthening my practical skills in:
+
+- Microsoft Sentinel
+- Defender XDR
+- KQL Threat Hunting
+- Detection Engineering
+- Incident Response
+- Identity Security
+- Vulnerability Management
+- AI Security
+
+My aim is to continue progressing within **SOC, Security Operations, Cyber Defence and Threat Detection** roles.
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna%20Jonnagaddala-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-jonnagaddala-2b858119a)
+
+[![Email](https://img.shields.io/badge/Email-kp.jonnagaddala%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kp.jonnagaddala@gmail.com)
+
+---
+
+## 📊 GitHub Activity
+
+![Krishna's GitHub Stats](https://github-readme-stats.shion.dev/api?username=Krishna-Jonnagaddala&theme=dark&hide_border=true&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Krishna-Jonnagaddala&theme=dark&hide_border=true)
+
+---
+
+> **Security Operations | Investigation | Detection | Response**

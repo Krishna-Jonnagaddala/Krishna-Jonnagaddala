@@ -13,7 +13,7 @@ Investigating threats. Improving detections. Developing secure AI workflows.
 [![BTL1](https://img.shields.io/badge/Centri-BTL1-0891B2?style=flat-square&labelColor=151B23)](#certifications)
 [![AI1](https://img.shields.io/badge/TryHackMe-AI1-7C3AED?style=flat-square&labelColor=151B23)](#certifications)
 
-[Security work](#selected-security-work) · [Technical skills](#technical-skills) · [AI security](#developing-my-ai-security-specialism) · [Connect](#connect)
+[Technical skills](#technical-skills) · [AI security](#developing-my-ai-security-specialism) · [Bug bounty](#bug-bounty-researcher-profiles) · [Connect](#connect)
 
 </div>
 
@@ -67,6 +67,16 @@ My current learning and practical focus includes:
 | **Google Cybersecurity Professional Certificate** | Google |
 | **AI Security (AI1) Certificate** | TryHackMe |
 | **Cyber Security 101 (SEC1) Certificate** | TryHackMe |
+
+## Bug bounty researcher profiles
+
+<div align="center">
+
+[![Intigriti](https://img.shields.io/badge/Intigriti-View_Profile-0052CC?style=for-the-badge&labelColor=151B23)](https://app.intigriti.com/researcher/profile/krishna_jonnagaddala)
+[![HackerOne](https://img.shields.io/badge/HackerOne-View_Profile-494649?style=for-the-badge&labelColor=151B23)](https://hackerone.com/krishnajonnagaddala?type=user)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-View_Profile-F26822?style=for-the-badge&labelColor=151B23)](https://bugcrowd.com/h/krishna_jonnagaddala)
+
+</div>
 
 ## Connect
 

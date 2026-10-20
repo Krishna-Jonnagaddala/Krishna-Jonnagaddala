@@ -1,62 +1,91 @@
 <div align="center">
 
-# Krishna Jonnagaddala
+<img src="./assets/cyber-banner.svg" width="100%" alt="Krishna Jonnagaddala — SOC L2 Analyst. Security operations, threat hunting and AI security. London, United Kingdom." />
 
-### SOC L2 Analyst · Security Operations · AI Security
+**Investigating threats. Strengthening detections. Learning to secure AI.**
 
-Investigating threats. Improving detections. Developing secure AI workflows.
+[![SC-200](https://img.shields.io/badge/Microsoft-SC--200-246F60?style=flat-square&labelColor=0B1622)](#certifications)
+[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-246F60?style=flat-square&labelColor=0B1622)](#certifications)
+[![BTL1](https://img.shields.io/badge/Centri-BTL1-18738A?style=flat-square&labelColor=0B1622)](#certifications)
+[![AI1](https://img.shields.io/badge/TryHackMe-AI1-18738A?style=flat-square&labelColor=0B1622)](#certifications)
 
-**London, United Kingdom**
+<br />
 
-[![SC-200](https://img.shields.io/badge/Microsoft-SC--200-0078D4?style=flat-square&labelColor=151B23)](#certifications)
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-C8202F?style=flat-square&labelColor=151B23)](#certifications)
-[![BTL1](https://img.shields.io/badge/Centri-BTL1-0891B2?style=flat-square&labelColor=151B23)](#certifications)
-[![AI1](https://img.shields.io/badge/TryHackMe-AI1-7C3AED?style=flat-square&labelColor=151B23)](#certifications)
-
-[Technical skills](#technical-skills) · [AI security](#developing-my-ai-security-specialism) · [Bug bounty](#bug-bounty-researcher-profiles) · [Connect](#connect)
+[`whoami`](#analyst-profile) &nbsp; / &nbsp; [`toolkit`](#technical-toolkit) &nbsp; / &nbsp; [`ai-security`](#ai-security) &nbsp; / &nbsp; [`credentials`](#certifications) &nbsp; / &nbsp; [`bug-bounty`](#bug-bounty) &nbsp; / &nbsp; [`connect`](#connect)
 
 </div>
 
 ---
 
-## About me
+<a id="analyst-profile"></a>
 
-I'm a **SOC L2 Analyst** working with **Microsoft Sentinel, Microsoft Defender XDR and KQL** to investigate threats across endpoint, identity and network environments.
+## `01` / Analyst profile
 
-My work includes phishing and malware investigations, suspicious authentication, IOC validation, threat hunting and detection tuning. I focus on understanding what the evidence supports, documenting findings clearly and recommending appropriate response actions.
+I'm a **SOC L2 Analyst based in London**, investigating phishing, malware, suspicious authentication and unauthorised access across endpoint, identity and network environments. My day-to-day work centres on **Microsoft Sentinel, Microsoft Defender XDR and KQL**.
 
-Before moving into security operations, I provided **L1/L2 IT support to 150+ users** across Windows, Active Directory, Microsoft 365 and enterprise applications. That background helps me connect security events with how systems and people actually work.
+I correlate telemetry, validate indicators, establish incident scope and document findings to support response decisions. I also use investigation findings to improve detections and guide proactive threat hunting.
 
-Outside the SOC, I do authorised bug bounty research through **Bugcrowd, HackerOne and Intigriti**, and I'm developing my skills in **AI application and agent security**.
+Before moving into security, I provided **L1/L2 IT support to 150+ users** across Windows, Active Directory, Microsoft 365 and enterprise applications. That experience helps me connect security events with how systems and people actually work.
 
-## Technical skills
+> **Beyond the SOC:** authorised bug bounty research through **Intigriti, HackerOne and Bugcrowd**, alongside a growing focus on **AI application and agent security**.
 
-| Area | Tools and capabilities |
+<a id="technical-toolkit"></a>
+
+## `02` / Technical toolkit
+
+| Domain | Tools & capabilities |
 | :--- | :--- |
-| **SIEM & detection** | Microsoft Sentinel · Splunk · KQL · SPL · Log correlation · Detection tuning |
-| **Endpoint & identity** | Microsoft Defender XDR · Advanced Hunting · Device timelines · Process analysis · Entra ID · Active Directory |
-| **Investigation & response** | Incident scoping · Phishing and malware investigation · IOC validation · Threat hunting · Containment recommendations |
+| **SIEM & detection** | **Microsoft Sentinel** · Splunk · `KQL` · `SPL` · Log correlation · Detection tuning |
+| **Endpoint & identity** | **Microsoft Defender XDR** · Advanced Hunting · Device timelines · Process analysis · Entra ID · Active Directory |
+| **Investigation & response** | Incident scoping · Phishing & malware investigation · IOC validation · Threat hunting · Containment recommendations |
 | **Threat analysis** | MITRE ATT&CK · Threat intelligence · Authentication analysis · False-positive analysis |
-| **Systems & networking** | Windows · Linux · Microsoft 365 · TCP/IP · DNS · DHCP · VPN · Firewall logs |
-| **Scripting & workflow** | Python · PowerShell · Git/GitHub · ServiceNow · Jira Service Management |
+| **Systems & networking** | Windows · Linux · Microsoft 365 · `TCP/IP` · `DNS` · `DHCP` · VPN · Firewall logs |
+| **Scripting & workflow** | `Python` · `PowerShell` · Git/GitHub · ServiceNow · Jira Service Management |
 
-[Explore my repositories →](https://github.com/Krishna-Jonnagaddala?tab=repositories)
+<div align="right">
 
-## Developing my AI security specialism
+[Browse my repositories →](https://github.com/Krishna-Jonnagaddala?tab=repositories)
 
-I'm interested in how organisations can give AI systems useful access to information and tools while keeping their actions accountable and within authorised boundaries.
+</div>
 
-My current learning and practical focus includes:
+<a id="ai-security"></a>
 
-- **LLM threat modelling:** identifying trust boundaries, exposed data and potential misuse.
-- **Prompt injection:** understanding how untrusted documents and inputs can influence an AI application.
-- **RAG and data security:** exploring information exposure, poisoned content and access controls.
-- **Agent security:** least privilege, tool permissions, approval workflows and auditability.
-- **AI-assisted security operations:** evaluating how AI can support investigations while keeping findings grounded in evidence.
+## `03` / AI security
 
-**Next portfolio milestones:** expand repeatable detection tests, document an AI security assessment around EVOPT, and evaluate an analyst-reviewed SOC automation workflow.
+I'm developing a specialism in securing AI applications and agents, and exploring how AI can support security operations while keeping findings grounded in evidence.
 
-## Certifications
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3><code>Security for AI</code></h3>
+<p><strong>Learning and practical focus</strong></p>
+<ul>
+<li>LLM threat modelling and trust boundaries</li>
+<li>Prompt injection and untrusted content</li>
+<li>RAG poisoning, data exposure and access controls</li>
+<li>Agent permissions, least privilege and auditability</li>
+</ul>
+
+</td>
+<td width="50%" valign="top">
+
+<h3><code>AI for security</code></h3>
+<p><strong>Exploration and next portfolio milestones</strong></p>
+<ul>
+<li>Evidence-grounded investigation support</li>
+<li>Analyst review and approval of response actions</li>
+<li>Repeatable detection testing and evaluation</li>
+<li>An AI security assessment around EVOPT</li>
+</ul>
+
+</td>
+</tr>
+</table>
+
+<a id="certifications"></a>
+
+## `04` / Certifications
 
 | Certification | Issuer |
 | :--- | :--- |
@@ -68,25 +97,33 @@ My current learning and practical focus includes:
 | **AI Security (AI1) Certificate** | TryHackMe |
 | **Cyber Security 101 (SEC1) Certificate** | TryHackMe |
 
-## Bug bounty researcher profiles
+<a id="bug-bounty"></a>
+
+## `05` / Bug bounty researcher profiles
+
+Authorised research. Programme scope. Responsible disclosure.
 
 <div align="center">
 
-[![Intigriti](https://img.shields.io/badge/Intigriti-View_Profile-0052CC?style=for-the-badge&labelColor=151B23)](https://app.intigriti.com/researcher/profile/krishna_jonnagaddala)
-[![HackerOne](https://img.shields.io/badge/HackerOne-View_Profile-494649?style=for-the-badge&labelColor=151B23)](https://hackerone.com/krishnajonnagaddala?type=user)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-View_Profile-F26822?style=for-the-badge&labelColor=151B23)](https://bugcrowd.com/h/krishna_jonnagaddala)
+[![Intigriti](https://img.shields.io/badge/Intigriti-Researcher_Profile-18738A?style=for-the-badge&labelColor=0B1622)](https://app.intigriti.com/researcher/profile/krishna_jonnagaddala)
+[![HackerOne](https://img.shields.io/badge/HackerOne-Researcher_Profile-246F60?style=for-the-badge&labelColor=0B1622)](https://hackerone.com/krishnajonnagaddala?type=user)
+[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Researcher_Profile-A35B20?style=for-the-badge&labelColor=0B1622)](https://bugcrowd.com/h/krishna_jonnagaddala)
 
 </div>
 
-## Connect
+<a id="connect"></a>
 
-I'm interested in **security operations, detection engineering and roles with an AI security focus**. I'm also happy to connect with people working on practical security research and defensive tooling.
+## `06` / Connect
+
+I'm interested in **security operations, detection engineering and roles with an AI security focus**. I'm happy to connect with people working on practical security research and defensive tooling.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s_connect-0A66C2?style=for-the-badge&labelColor=151B23)](https://www.linkedin.com/in/krishna-jonnagaddala-2b858119a/)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-0891B2?style=for-the-badge&labelColor=151B23)](mailto:kp.jonnagaddala@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s_connect-18738A?style=for-the-badge&labelColor=0B1622)](https://www.linkedin.com/in/krishna-jonnagaddala-2b858119a/)
+[![Email](https://img.shields.io/badge/Email-Get_in_touch-246F60?style=for-the-badge&labelColor=0B1622)](mailto:kp.jonnagaddala@gmail.com)
 
-<sub>Security operations experience. An investigative mindset. A growing focus on AI security.</sub>
+<br />
+
+<sub><code>Curiosity → Evidence → Better defences</code></sub>
 
 </div>

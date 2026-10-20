@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title desc">
+  <title id="title">Krishna Jonnagaddala — SOC L2 Analyst</title>
+  <desc id="desc">A dark terminal-inspired cybersecurity banner with cyan and green accents, a shield and connected investigation nodes. Security operations, threat hunting and AI security. London, United Kingdom.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0b1622"/><stop offset="1" stop-color="#060c12"/></linearGradient>
+    <radialGradient id="aura"><stop offset="0" stop-color="#1c806f" stop-opacity=".22"/><stop offset="1" stop-color="#1c806f" stop-opacity="0"/></radialGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#50efb5"/><stop offset="1" stop-color="#52cfe8"/></linearGradient>
+    <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#254252" stroke-width=".6"/></pattern>
+    <clipPath id="frame"><rect x="1" y="1" width="1198" height="388" rx="20"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="390" fill="url(#background)"/>
+    <rect x="780" y="66" width="420" height="324" fill="url(#grid)" opacity=".38"/>
+    <ellipse cx="1000" cy="218" rx="244" ry="220" fill="url(#aura)"/>
+    <rect x="25" y="25" width="1150" height="42" rx="8" fill="#101f2b" stroke="#223744"/>
+    <circle cx="47" cy="46" r="5" fill="#ee6a65"/><circle cx="65" cy="46" r="5" fill="#e5ba5b"/><circle cx="83" cy="46" r="5" fill="#50c690"/>
+    <text x="108" y="51" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="13" fill="#9aafbd">krishna@security: ~/profile</text>
+    <text x="1148" y="51" text-anchor="end" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#50efb5">BLUE TEAM / RESEARCH</text>
+    <rect x="26" y="94" width="3" height="262" rx="1.5" fill="url(#accent)"/>
+    <g font-family="'DejaVu Sans',Arial,sans-serif">
+      <text x="55" y="108" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="15" fill="#50efb5">&gt; whoami<tspan fill="#5b7482">_</tspan></text>
+      <text x="53" y="172" font-size="62" font-weight="700" letter-spacing="1" fill="#f2f7fa">KRISHNA</text>
+      <text x="54" y="229" font-size="48" font-weight="700" letter-spacing="1.2" fill="#f2f7fa">JONNAGADDALA</text>
+      <text x="57" y="270" font-size="18" font-weight="600" letter-spacing="3.8" fill="#50efb5">SOC L2 ANALYST</text>
+      <text x="57" y="305" font-size="17" fill="#b7c9d4">Security operations · Threat hunting · AI security</text>
+      <text x="57" y="353" font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#7c97a8">LONDON, UNITED KINGDOM</text>
+    </g>
+    <path d="M768 98V354" stroke="#274350" stroke-dasharray="3 7" opacity=".75"/>
+    <g fill="none">
+      <circle cx="995" cy="217" r="111" stroke="#244d55" stroke-width="1"/>
+      <circle cx="995" cy="217" r="90" stroke="#28565e" stroke-width="1" stroke-dasharray="3 8"/>
+      <circle cx="995" cy="217" r="65" stroke="#1b3a46"/>
+      <path d="M868 217H1122M995 90V344" stroke="#20404d"/>
+      <path d="M887 187A112 112 0 0 1 934 124" stroke="#52cfe8" stroke-width="3"/>
+      <path d="M1105 233A112 112 0 0 1 1059 309" stroke="#50efb5" stroke-width="3"/>
+      <path d="M905 149L995 217L1063 129M995 217L1092 275" stroke="#479e94" stroke-width="1.4" opacity=".65"/>
+      <path d="M995 175L1028 188V215C1028 241 1015 258 995 271C975 258 962 241 962 215V188Z" fill="#0d252c" stroke="url(#accent)" stroke-width="2"/>
+      <path d="M979 209L988 218L979 227M997 228H1010" stroke="#50efb5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+      <circle cx="905" cy="149" r="7" fill="#0a1b24" stroke="#52cfe8" stroke-width="2"/><circle cx="905" cy="149" r="2" fill="#52cfe8"/>
+      <circle cx="1063" cy="129" r="7" fill="#0a1b24" stroke="#50efb5" stroke-width="2"/><circle cx="1063" cy="129" r="2" fill="#50efb5"/>
+      <circle cx="1092" cy="275" r="7" fill="#0a1b24" stroke="#52cfe8" stroke-width="2"/><circle cx="1092" cy="275" r="2" fill="#52cfe8"/>
+    </g>
+    <g font-family="'DejaVu Sans Mono',Consolas,monospace" font-size="10" letter-spacing="1.3" fill="#8ba8b8">
+      <text x="850" y="132">DETECT</text><text x="1021" y="107">INVESTIGATE</text><text x="1081" y="305">RESPOND</text>
+      <text x="995" y="355" text-anchor="middle" fill="#6f9b9f">SIGNAL / EVIDENCE / ACTION</text>
+    </g>
+    <rect x="1" y="386" width="1198" height="3" fill="url(#accent)" opacity=".8"/>
+  </g>
+  <rect x="1" y="1" width="1198" height="388" rx="20" fill="none" stroke="#29414f"/>
+</svg>

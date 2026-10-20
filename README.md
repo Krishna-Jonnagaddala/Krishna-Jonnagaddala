@@ -40,59 +40,6 @@ Outside the SOC, I do authorised bug bounty research through **Bugcrowd, HackerO
 | **Systems & networking** | Windows · Linux · Microsoft 365 · TCP/IP · DNS · DHCP · VPN · Firewall logs |
 | **Scripting & workflow** | Python · PowerShell · Git/GitHub · ServiceNow · Jira Service Management |
 
-## Selected security work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<h3>01 · Sentinel investigations</h3>
-<p>SOC investigation work covering alert triage, event correlation, IOC analysis, ATT&amp;CK mapping and response recommendations.</p>
-<p><code>Microsoft Sentinel</code> <code>KQL</code> <code>Incident response</code></p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>02 · KQL hunting &amp; detection</h3>
-<p>Queries for suspicious authentication, PowerShell activity, privilege escalation and IOC hunting across security telemetry.</p>
-<p><code>Threat hunting</code> <code>KQL</code> <code>Detection logic</code></p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>03 · Defender XDR investigations</h3>
-<p>Endpoint investigations using device timelines, process relationships, Advanced Hunting and user activity to understand incident scope.</p>
-<p><code>Defender XDR</code> <code>Endpoint analysis</code> <code>Evidence correlation</code></p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>04 · Home SOC lab</h3>
-<p>A Wazuh lab with Windows, Linux and Sysmon telemetry, authentication-event analysis and custom brute-force detection.</p>
-<p><code>Wazuh</code> <code>Sysmon</code> <code>Detection validation</code></p>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<h3>05 · <a href="https://github.com/Krishna-Jonnagaddala/EVOPT-AI">EVOPT AI</a></h3>
-<p>An enterprise optimisation prototype using Microsoft Copilot Studio to explore duplicate work, workflow bottlenecks and organisational knowledge gaps.</p>
-<p><code>AI prototype</code> <code>Copilot Studio</code> <code>Enterprise workflows</code></p>
-
-</td>
-<td width="50%" valign="top">
-
-<h3>06 · Red Team Capstone</h3>
-<p>A TryHackMe simulated engagement covering reconnaissance, an initial foothold, internal pivoting and Active Directory attack paths.</p>
-<p><code>Authorised lab</code> <code>Adversary techniques</code> <code>Active Directory</code></p>
-
-</td>
-</tr>
-</table>
-
 [Explore my repositories →](https://github.com/Krishna-Jonnagaddala?tab=repositories)
 
 ## Developing my AI security specialism

@@ -1,129 +1,114 @@
-<div align="center">
+<p><samp>krishna@security:~$ whoami</samp></p>
 
-<img src="./assets/cyber-banner.svg" width="100%" alt="Krishna Jonnagaddala — SOC L2 Analyst. Security operations, threat hunting and AI security. London, United Kingdom." />
+<h1><samp>Krishna Jonnagaddala_</samp></h1>
 
-**Investigating threats. Strengthening detections. Learning to secure AI.**
+<p><samp>SOC L2 ANALYST &nbsp; / &nbsp; SECURITY RESEARCHER &nbsp; / &nbsp; LONDON, UK</samp></p>
 
-[![SC-200](https://img.shields.io/badge/Microsoft-SC--200-246F60?style=flat-square&labelColor=0B1622)](#certifications)
-[![Security+](https://img.shields.io/badge/CompTIA-Security%2B-246F60?style=flat-square&labelColor=0B1622)](#certifications)
-[![BTL1](https://img.shields.io/badge/Centri-BTL1-18738A?style=flat-square&labelColor=0B1622)](#certifications)
-[![AI1](https://img.shields.io/badge/TryHackMe-AI1-18738A?style=flat-square&labelColor=0B1622)](#certifications)
+```diff
++ Investigating threats across endpoints, identities and networks.
++ Authorised bug bounty research outside the SOC.
++ Developing my skills in AI application and agent security.
+```
 
-<br />
-
-[`whoami`](#analyst-profile) &nbsp; / &nbsp; [`toolkit`](#technical-toolkit) &nbsp; / &nbsp; [`ai-security`](#ai-security) &nbsp; / &nbsp; [`credentials`](#certifications) &nbsp; / &nbsp; [`bug-bounty`](#bug-bounty) &nbsp; / &nbsp; [`connect`](#connect)
-
-</div>
+[ `./operations` ](#operations) &nbsp; [ `./toolkit` ](#toolkit) &nbsp; [ `./research` ](#research) &nbsp; [ `./credentials` ](#credentials) &nbsp; [ `./bounty` ](#bounty) &nbsp; [ `./contact` ](#contact)
 
 ---
 
-<a id="analyst-profile"></a>
+<a id="operations"></a>
 
-## `01` / Analyst profile
+### `$ cat operations.md`
 
-I'm a **SOC L2 Analyst based in London**, investigating phishing, malware, suspicious authentication and unauthorised access across endpoint, identity and network environments. My day-to-day work centres on **Microsoft Sentinel, Microsoft Defender XDR and KQL**.
+I work with **Microsoft Sentinel, Defender XDR and KQL** to investigate phishing, malware, suspicious sign-ins and unauthorised access.
 
-I correlate telemetry, validate indicators, establish incident scope and document findings to support response decisions. I also use investigation findings to improve detections and guide proactive threat hunting.
+Most of my work is following the evidence: correlating logs, checking process activity, validating IOCs and working out which users or systems are affected. I document what I find, recommend response actions and feed the findings back into detections.
 
-Before moving into security, I provided **L1/L2 IT support to 150+ users** across Windows, Active Directory, Microsoft 365 and enterprise applications. That experience helps me connect security events with how systems and people actually work.
+`alert triage` `incident scoping` `threat hunting` `detection tuning` `MITRE ATT&CK`
 
-> **Beyond the SOC:** authorised bug bounty research through **Intigriti, HackerOne and Bugcrowd**, alongside a growing focus on **AI application and agent security**.
+<details>
+<summary><samp>+ background / before the SOC</samp></summary>
 
-<a id="technical-toolkit"></a>
+I previously provided L1/L2 IT support to **150+ users** across Windows, Active Directory, Microsoft 365, VPN and enterprise applications. Troubleshooting those systems gave me a useful starting point for investigating their security logs.
 
-## `02` / Technical toolkit
+</details>
 
-| Domain | Tools & capabilities |
-| :--- | :--- |
-| **SIEM & detection** | **Microsoft Sentinel** · Splunk · `KQL` · `SPL` · Log correlation · Detection tuning |
-| **Endpoint & identity** | **Microsoft Defender XDR** · Advanced Hunting · Device timelines · Process analysis · Entra ID · Active Directory |
-| **Investigation & response** | Incident scoping · Phishing & malware investigation · IOC validation · Threat hunting · Containment recommendations |
-| **Threat analysis** | MITRE ATT&CK · Threat intelligence · Authentication analysis · False-positive analysis |
-| **Systems & networking** | Windows · Linux · Microsoft 365 · `TCP/IP` · `DNS` · `DHCP` · VPN · Firewall logs |
-| **Scripting & workflow** | `Python` · `PowerShell` · Git/GitHub · ServiceNow · Jira Service Management |
+<a id="toolkit"></a>
 
-<div align="right">
+### `$ cat toolkit.yml`
 
-[Browse my repositories →](https://github.com/Krishna-Jonnagaddala?tab=repositories)
+```yaml
+detection:
+  platforms: [Microsoft Sentinel, Splunk]
+  queries:   [KQL, SPL]
 
-</div>
+endpoint_and_identity:
+  platforms: [Microsoft Defender XDR, Entra ID, Active Directory]
+  telemetry: [Device timelines, Process activity, Sign-in logs]
 
-<a id="ai-security"></a>
+investigation:
+  methods:   [Log correlation, IOC validation, Threat hunting]
+  context:   [MITRE ATT&CK, Threat intelligence]
 
-## `03` / AI security
+systems:
+  platforms: [Windows, Linux, Microsoft 365]
+  network:   [TCP/IP, DNS, DHCP, VPN, Firewall logs]
 
-I'm developing a specialism in securing AI applications and agents, and exploring how AI can support security operations while keeping findings grounded in evidence.
+scripting:
+  languages: [Python, PowerShell]
+  workflow:  [Git, ServiceNow, Jira Service Management]
+```
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<a id="research"></a>
 
-<h3><code>Security for AI</code></h3>
-<p><strong>Learning and practical focus</strong></p>
-<ul>
-<li>LLM threat modelling and trust boundaries</li>
-<li>Prompt injection and untrusted content</li>
-<li>RAG poisoning, data exposure and access controls</li>
-<li>Agent permissions, least privilege and auditability</li>
-</ul>
+### `$ cat research/README.md`
 
-</td>
-<td width="50%" valign="top">
+I'm interested in what happens when AI applications can read documents, retrieve data and call tools. The security questions I'm working through:
 
-<h3><code>AI for security</code></h3>
-<p><strong>Exploration and next portfolio milestones</strong></p>
-<ul>
-<li>Evidence-grounded investigation support</li>
-<li>Analyst review and approval of response actions</li>
-<li>Repeatable detection testing and evaluation</li>
-<li>An AI security assessment around EVOPT</li>
-</ul>
+- **Prompt injection** — can untrusted content change an agent's behaviour?
+- **RAG security** — what happens when retrieved content is poisoned or exposes data?
+- **Agent permissions** — does a tool call stay within the user's authority?
+- **AI in the SOC** — can an assistant explain its findings with evidence an analyst can check?
 
-</td>
-</tr>
-</table>
+**Next on my workbench:** an AI security assessment around EVOPT, repeatable detection tests and an analyst-reviewed SOC automation workflow.
 
-<a id="certifications"></a>
+[ `ls -la repositories/` →](https://github.com/Krishna-Jonnagaddala?tab=repositories)
 
-## `04` / Certifications
+<a id="credentials"></a>
 
-| Certification | Issuer |
-| :--- | :--- |
-| **Microsoft Certified: Security Operations Analyst Associate (SC-200)** | Microsoft |
-| **CompTIA Security+ (SY0-701)** | CompTIA |
-| **Blue Team Level 1 (BTL1)** | Centri |
-| **Certified Cybersecurity Technician (C\|CT)** | EC-Council |
-| **Google Cybersecurity Professional Certificate** | Google |
-| **AI Security (AI1) Certificate** | TryHackMe |
-| **Cyber Security 101 (SEC1) Certificate** | TryHackMe |
+### `$ cat credentials.txt`
 
-<a id="bug-bounty"></a>
+`SC-200` &nbsp; `Security+` &nbsp; `BTL1` &nbsp; `C|CT` &nbsp; `Google Cybersecurity` &nbsp; `AI1` &nbsp; `SEC1`
 
-## `05` / Bug bounty researcher profiles
+<details>
+<summary><samp>+ expand / certificates and issuers</samp></summary>
 
-Authorised research. Programme scope. Responsible disclosure.
+- **Microsoft Certified: Security Operations Analyst Associate (SC-200)** — Microsoft
+- **CompTIA Security+ (SY0-701)** — CompTIA
+- **Blue Team Level 1 (BTL1)** — Centri
+- **Certified Cybersecurity Technician (C|CT)** — EC-Council
+- **Google Cybersecurity Professional Certificate** — Google
+- **AI Security (AI1) Certificate** — TryHackMe
+- **Cyber Security 101 (SEC1) Certificate** — TryHackMe
 
-<div align="center">
+</details>
 
-[![Intigriti](https://img.shields.io/badge/Intigriti-Researcher_Profile-18738A?style=for-the-badge&labelColor=0B1622)](https://app.intigriti.com/researcher/profile/krishna_jonnagaddala)
-[![HackerOne](https://img.shields.io/badge/HackerOne-Researcher_Profile-246F60?style=for-the-badge&labelColor=0B1622)](https://hackerone.com/krishnajonnagaddala?type=user)
-[![Bugcrowd](https://img.shields.io/badge/Bugcrowd-Researcher_Profile-A35B20?style=for-the-badge&labelColor=0B1622)](https://bugcrowd.com/h/krishna_jonnagaddala)
+<a id="bounty"></a>
 
-</div>
+### `$ cat bounty/profiles.conf`
 
-<a id="connect"></a>
+I spend time outside work doing bug bounty research within programme scope.
 
-## `06` / Connect
+[![Intigriti](https://img.shields.io/badge/INTIGRITI-181C18?style=for-the-badge&logo=intigriti&logoColor=8CEB75)](https://app.intigriti.com/researcher/profile/krishna_jonnagaddala)
+[![HackerOne](https://img.shields.io/badge/HACKERONE-181C18?style=for-the-badge&logo=hackerone&logoColor=8CEB75)](https://hackerone.com/krishnajonnagaddala?type=user)
+[![Bugcrowd](https://img.shields.io/badge/BUGCROWD-181C18?style=for-the-badge&logo=bugcrowd&logoColor=8CEB75)](https://bugcrowd.com/h/krishna_jonnagaddala)
 
-I'm interested in **security operations, detection engineering and roles with an AI security focus**. I'm happy to connect with people working on practical security research and defensive tooling.
+<a id="contact"></a>
 
-<div align="center">
+### `$ cat contact.txt`
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let%27s_connect-18738A?style=for-the-badge&labelColor=0B1622)](https://www.linkedin.com/in/krishna-jonnagaddala-2b858119a/)
-[![Email](https://img.shields.io/badge/Email-Get_in_touch-246F60?style=for-the-badge&labelColor=0B1622)](mailto:kp.jonnagaddala@gmail.com)
+Open to conversations about **security operations, detection engineering and AI security**.
 
-<br />
+[ `LinkedIn` ](https://www.linkedin.com/in/krishna-jonnagaddala-2b858119a/) &nbsp; / &nbsp; [ `kp.jonnagaddala@gmail.com` ](mailto:kp.jonnagaddala@gmail.com)
 
-<sub><code>Curiosity → Evidence → Better defences</code></sub>
+---
 
-</div>
+<samp>krishna@security:~$ <b>▍</b></samp>

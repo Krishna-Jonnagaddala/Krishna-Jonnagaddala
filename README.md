@@ -18,16 +18,18 @@
 
 ### `$ cat operations.md`
 
-I work with **Microsoft Sentinel, Defender XDR and KQL** to investigate phishing, malware, suspicious sign-ins and unauthorised access.
+I work with Microsoft Sentinel, Defender XDR, Entra ID, Splunk and KQL/SPL to investigate phishing, malware, suspicious sign-ins, cloud identity compromises and unauthorised access.
 
-Most of my work is following the evidence: correlating logs, checking process activity, validating IOCs and working out which users or systems are affected. I document what I find, recommend response actions and feed the findings back into detections.
+Most of my work is following the evidence: correlating logs, checking process activity, validating IOCs and working out which users or systems are affected. I document what I find, maintain a <15-minute MTTR across escalated Tier-2 incidents, build SOAR playbooks (Logic Apps), and feed threat hunting findings back into custom detections.
+
+alert triage  incident scoping  threat hunting  detection tuning  SOAR automation  MITRE ATT&CK  Web/API Security
 
 `alert triage` `incident scoping` `threat hunting` `detection tuning` `MITRE ATT&CK`
 
 <details>
 <summary><samp>+ background / before the SOC</samp></summary>
 
-I previously provided L1/L2 IT support to **150+ users** across Windows, Active Directory, Microsoft 365, VPN and enterprise applications. Troubleshooting those systems gave me a useful starting point for investigating their security logs.
+I previously provided L1/L2 IT support to 500+ users across Windows, Active Directory, Entra ID, Microsoft 365, BitLocker, VPN and enterprise applications, following a background in UI/UX Design focusing on security telemetry visualization and web API workflows. Troubleshooting those systems gave me a solid technical starting point for investigating their security logs and understanding attacker behavior.
 
 </details>
 
